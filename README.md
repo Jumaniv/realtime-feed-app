@@ -388,7 +388,7 @@ NEXT_PUBLIC_API_URL=http://localhost:5000
 
 # Author
 
-Developer: <Vijay Kumar Jumani>
+Developer: Vijay Kumar Jumani
 
 GitHub: <https://github.com/Jumaniv>
 
